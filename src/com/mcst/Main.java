@@ -10,6 +10,7 @@ public class Main {
         System.out.println(translate("XLII"));
         System.out.println(translate("XCIII"));
         System.out.println(translate("MDCCXXXII"));
+        System.out.println(translate("IC"));
     }
 
 }
